@@ -47,7 +47,6 @@ class Solution {
         int index = 0;
         int monIndex = 1;
         int dayIndex = 1;
-
         while(true){
             for(int i = 0;i<7;i++){
                 result += dayIndex;
